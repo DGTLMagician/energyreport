@@ -4,13 +4,11 @@ json
 logging
 os
 sys
-readchar
 requests
 calendar
 html
 matplotlib
 numpy
-seaborn
 openai
 jinja2
 getpass

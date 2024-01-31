@@ -3,16 +3,12 @@ import json
 import logging
 import os
 import sys
-import readchar
 import requests
 import calendar
 import html
 import matplotlib.pyplot as plt
 import numpy as np
-import seaborn as sns
 import smtplib
-import base64
-import os
 
 from dotenv import load_dotenv
 from email.mime.multipart import MIMEMultipart
